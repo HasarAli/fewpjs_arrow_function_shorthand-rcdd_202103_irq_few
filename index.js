@@ -1,2 +1,2 @@
-const devide = 2000/100
+const devide = function() {return 2000/100}
 
